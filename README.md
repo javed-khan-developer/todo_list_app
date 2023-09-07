@@ -1,16 +1,19 @@
-# todo_list_app
+Todo List App
 
-A new Flutter project.
+description :
+:- allow users to add, edit, and delete tasks, including setting the task
+   name, due date, and priority.
+:- allow users to mark tasks as completed and view completed tasks.
+:- allow users to filter tasks by due date.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the Repository:
+To get a local copy of this project, run the following command in your terminal:
+● git clone https://github.com/your-username/your-app-name.git
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install Dependencies:
+● run flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the app use the following command:
+● flutter run
